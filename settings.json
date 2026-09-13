@@ -8,7 +8,7 @@
   "server": {
     "ip": "BrakZasadSMP.aternos.me",
     "port": 37320,
-    "version": "1.21.4"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
