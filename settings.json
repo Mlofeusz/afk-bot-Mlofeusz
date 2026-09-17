@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BrakZasadSmp-HKfr.aternos.me:16615",
-    "port": 39213,
+    "ip": "BrakZasadSmp-HKfr.aternos.me",
+    "port": 16615,
     "version": "1.21.11"
   },
   "position": {
