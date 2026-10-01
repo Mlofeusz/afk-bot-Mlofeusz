@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SubToMlofeusz",
+    "username": "KingBot",
     "password": "",
     "type": "offline"
   },
@@ -30,6 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
+        "I'm a regular player",
+        "Subscribe to ",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -75,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1555227872992559104/E3o7MCVnMDjUNAVMEVYiZzAtWrzj9UB2FN5BDVdm80KYQzajxST-0LYGXw9C5w6SClT4",
+    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
       "disconnect": true,
