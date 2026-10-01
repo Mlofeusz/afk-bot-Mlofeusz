@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ToNieMlofeuszToBot",
+    "username": "SubToMlofeusz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BrakZasadSmp-HKfr.aternos.me",
-    "port": 16615,
+    "ip": "XplayGG.aternos.me",
+    "port": 59762,
     "version": "1.21.11"
   },
   "position": {
@@ -26,13 +26,10 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
-      "messages": [
-        "rozdaje ity /tpa",
-        "kto chce ity tpa",
-        "Kto soj tpa"
+      "messages": ["
       ]
     },
     "chat-log": true,
@@ -78,7 +75,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1555227872992559104/E3o7MCVnMDjUNAVMEVYiZzAtWrzj9UB2FN5BDVdm80KYQzajxST-0LYGXw9C5w6SClT4",
     "events": {
       "connect": true,
       "disconnect": true,
